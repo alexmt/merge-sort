@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask.MergeSort", "TestTask.MergeSort\TestTask.MergeSort.csproj", "{4BD68EED-84FE-47B1-9109-A11063C166BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask.App", "TestTask.App\TestTask.App.csproj", "{42ADB47A-D565-4409-A807-CAFDEB22411D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42ADB47A-D565-4409-A807-CAFDEB22411D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42ADB47A-D565-4409-A807-CAFDEB22411D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42ADB47A-D565-4409-A807-CAFDEB22411D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{42ADB47A-D565-4409-A807-CAFDEB22411D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{42ADB47A-D565-4409-A807-CAFDEB22411D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{42ADB47A-D565-4409-A807-CAFDEB22411D}.Debug|x86.Build.0 = Debug|Any CPU
+		{42ADB47A-D565-4409-A807-CAFDEB22411D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42ADB47A-D565-4409-A807-CAFDEB22411D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42ADB47A-D565-4409-A807-CAFDEB22411D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{42ADB47A-D565-4409-A807-CAFDEB22411D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{42ADB47A-D565-4409-A807-CAFDEB22411D}.Release|x86.ActiveCfg = Release|Any CPU
+		{42ADB47A-D565-4409-A807-CAFDEB22411D}.Release|x86.Build.0 = Release|Any CPU
+		{4BD68EED-84FE-47B1-9109-A11063C166BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD68EED-84FE-47B1-9109-A11063C166BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD68EED-84FE-47B1-9109-A11063C166BF}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4BD68EED-84FE-47B1-9109-A11063C166BF}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4BD68EED-84FE-47B1-9109-A11063C166BF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4BD68EED-84FE-47B1-9109-A11063C166BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD68EED-84FE-47B1-9109-A11063C166BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BD68EED-84FE-47B1-9109-A11063C166BF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4BD68EED-84FE-47B1-9109-A11063C166BF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{4BD68EED-84FE-47B1-9109-A11063C166BF}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TestTask.App\TestTask.App.csproj
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/TFS24
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TestTask.ConsoleApp\\TestTask.ConsoleApp.csproj
+		SccProjectName1 = TestTask.ConsoleApp
+		SccLocalPath1 = TestTask.ConsoleApp
+		SccProjectUniqueName2 = TestTask.MergeSort\\TestTask.MergeSort.csproj
+		SccProjectName2 = TestTask.MergeSort
+		SccLocalPath2 = TestTask.MergeSort
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
